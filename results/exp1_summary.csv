@@ -1,0 +1,10 @@
+case,alpha,m0,identity_ok,one_step_dominance,exact_balance_ok,resource_inv_ok,max_bal_res,max_inv_res,max_q_diff_mc,cutoff_survival,cutoff_linear,cutoff_sqrt,cutoff_log1p,cutoff_capped_1
+mu1_uniform,0.1,1.0,True,True,True,True,0.0,7.44e-10,0.0584,0.662421,0.966241,0.773429,0.567771,0.594140
+mu1_uniform,0.3,1.0,True,True,True,True,0.0,1.46e-12,0.0586,0.659516,0.897850,0.746688,0.543349,0.588254
+mu1_uniform,0.5,1.0,True,True,True,True,0.0,2.2e-12,0.0595,0.654456,0.827221,0.715848,0.515128,0.578476
+mu2_mixture_uniform,0.1,0.8,True,True,True,True,0.0,3.75e-10,0.083,0.516135,0.751611,0.602258,0.442050,0.463064
+mu2_mixture_uniform,0.3,0.8,True,True,True,True,0.0,2.23e-12,0.0831,0.500197,0.650053,0.553450,0.399722,0.441729
+mu2_mixture_uniform,0.5,0.8,True,False,True,True,0.0,6.8e-13,0.0852,0.474839,0.537408,0.491751,0.346926,0.408290
+mu3_atomic,0.1,0.75,True,True,True,True,0.0,6.39e-11,0.0918,0.487017,0.698700,0.564060,0.413088,0.435561
+mu3_atomic,0.3,0.75,True,True,True,True,0.0,8.62e-13,0.0918,0.466104,0.589825,0.508956,0.365947,0.409043
+mu3_atomic,0.5,0.75,True,True,True,True,0.0,1.38e-12,0.0954,0.432616,0.466296,0.437338,0.305662,0.366786
